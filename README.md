@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @JCCourt
-- 👀 I’m interested in all things programming!
-- 🌱 I’m currently learning Java & JavaScript!
-- 💞️ I’m looking to collaborate on solutions!
-- 😄 Pronouns: He/Him
-
-<!---
-JCCourt/JCCourt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <h1>Hello there, I'm @JCCourt</h1>
+  <img src="https://github.com/JCCourt/JCCourt/assets/156492869/3ea9b924-c308-4a92-a2af-d3c0f677a4bc" width="200" />
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jack-courtenay/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div><br>
+  <p>- 👨🏻‍💻 I'm a Bachelor of Computer Sciences student. </p>
+  <p>- 🌏 I’m interested in creating solutions to improve peoples lives. </p>
+  <p>- 🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies. </p>
+  <p>- 💼 I’m currently seeking new opportunities to apply my knowledge and expertise. </p>
+  <p>- ✏️ I enjoy creating difficult projects to challenge myself and improve my skills.</p>
+  <p>- 📝 Focusing on learning Java right now. </p>
+</div>
+<div id="stats" align="center">
+  <h2>Stats</h2>
+  <p></p><img src="https://streak-stats.demolab.com?user=[JCCourt]&theme=transparent&fire=EB5454" alt="GitHub Streak"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCourt&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/></p>
+</div>
+<div id="favourite tech" align="center">
+  <h2>Favourite Tech</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
+  <div>
