@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm @JCCourt</h1>
-  <img src="https://github.com/JCCourt/JCCourt/assets/156492869/3ea9b924-c308-4a92-a2af-d3c0f677a4bc" width="200" />
+  <img src="https://github.com/JCCourt/JCCourt/assets/156492869/edf52a3f-c2ca-434a-b1c0-7360854f5737" width="200" />
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/jack-courtenay/">
@@ -39,4 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
   <div>
-
