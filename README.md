@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jccourt&label=Profile%20views&color=0e75b6&style=flat" alt="jccourt" /> </p>
+
 </div><br>
   <p>👨🏻‍💻 I'm a Bachelor of Computer Sciences student. </p>
   <p>🌏 I’m interested in creating solutions to improve peoples lives. </p>
