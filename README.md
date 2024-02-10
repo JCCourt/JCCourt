@@ -23,12 +23,12 @@
   <p><a href="https://www.credly.com/badges/4317695a-ad92-44cf-b3b6-9566d3f356de/public_url"> 
   <img src="https://github.com/JCCourt/JCCourt/assets/156492869/ffe0a660-66f2-46d5-8dd8-c951221f9111" alt="aws">
   </a></p>
-
 </div>
 
 <div id="stats" align="center">
   <h2>Stats</h2>
-  <p></p><img src="https://streak-stats.demolab.com?user=[JCCourt]&theme=transparent&fire=EB5454" alt="GitHub Streak"/></p>
+  <p><img src="https://streak-stats.demolab.com?user=[JCCourt]&theme=transparent&fire=EB5454" alt="GitHub Streak"/></p>
+  <p></p><img src="https://leetcard.jacoblin.cool/JCCourt?theme=dark&font=Noto%20Serif%20KR" alt="LeetCode Stats"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCourt&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/></p>
 </div>
 
