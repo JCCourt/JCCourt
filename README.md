@@ -15,7 +15,7 @@
   <p>🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies. </p>
   <p>💼 I’m currently seeking new opportunities to apply my knowledge and expertise. </p>
   <p>✏️ I enjoy creating difficult projects to challenge myself and improve my skills.</p>
-  <p>📝 Focusing on learning Java right now. </p>
+  <p>📝 Focusing on learning Java and DSA. </p>
 </div>
 
 <div id="certifications" align="center">
