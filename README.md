@@ -5,24 +5,17 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/jack-courtenay/">
   <p align="center"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </p>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jccourt&label=Profile%20views&color=0e75b6&style=flat" alt="jccourt"/> </p>
+
   </a>
 
-<table>
-  <tr>
-    <td>
-      <p>👨🏻‍💻 I'm a 2nd year Bachelor of Computer and Information Sciences student.</p>
-      <p>🌏 I’m interested in creating solutions to improve peoples lives.</p>
-      <p>🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>
-      <p>💼 I’m currently seeking new opportunities to apply my knowledge and expertise.</p>
-      <p>✏️ I enjoy creating difficult projects to challenge myself and improve my skills.</p>
-      <p>📝 Focusing on learning Java and DSA.</p>
-    </td>
-    <td>
-      <img src="https://github.com/JCCourt/JCCourt/assets/156492869/cf46d622-fc1f-42db-9f17-14dc52bc893a" style="width:100%; max-width:200px;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>👨🏻‍💻 I'm a 2nd year Bachelor of Computer and Information Sciences student.</p>
+  <p>🌏 I’m interested in creating solutions to improve peoples lives.</p>
+  <p>🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>
+  <p>💼 I’m currently seeking new opportunities to apply my knowledge and expertise.</p>
+  <p>✏️ I enjoy creating difficult projects to challenge myself and improve my skills.</p>
+  <p>📝 Focusing on learning Java and DSA.</p>
+</div>
 
 <div id="certifications" align="center">
   <h2>Certifications</h2>
@@ -44,8 +37,12 @@
 
 <div id="stats" align="center">
   <h2>Stats</h2>
-  <p><img src="https://streak-stats.demolab.com?user=[JCCourt]&theme=transparent&fire=EB5454" alt="GitHub Streak"/></p>
-  <p></p><img src="https://leetcard.jacoblin.cool/JCCourt?theme=dark&font=Noto%20Serif%20KR" alt="LeetCode Stats"/></p>
+  <p><img src="https://streak-stats.demolab.com?user=[JCCourt]&theme=transparent&fire=EB5454" alt="GitHub Streak"/><img src="https://leetcard.jacoblin.cool/JCCourt?theme=dark&font=Noto%20Serif%20KR" alt="LeetCode Stats"/></p>
+ 
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCourt&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/></p>
 </div>
 
+<div id="Extras" align="center">
+  <h2></h2>
+  <p><img src="https://komarev.com/ghpvc/?username=jccourt&label=Profile%20views&color=0e75b6&style=flat" alt="jccourt"/></p>
+</div>
