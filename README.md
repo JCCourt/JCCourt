@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>👨🏻‍💻 I'm a 2nd year Bachelor of Computer and Information Sciences student.</p>
-  <p>🌏 I’m interested in creating solutions to improve peoples lives.</p>
+  <p>🌏 I’m interested in creating solutions to benefit peoples lives.</p>
   <p>🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>
   <p>💼 I’m currently seeking new opportunities to apply my knowledge and expertise.</p>
   <p>✏️ I enjoy creating difficult projects to challenge myself and improve my skills.</p>
