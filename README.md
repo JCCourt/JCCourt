@@ -1,5 +1,7 @@
 # Hello there, I'm @JCCourt
 
+
+
 - 🎓 Software Engineering Student at Auckland University of Technology
 - 🌏 I’m interested in creating solutions to benefit peoples lives.
 - 🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.
@@ -14,10 +16,12 @@
   </p>
 </div>
 
-## 🛠️ Skills:
+## 🛠️ Languages and Tools:
 
-- Programming Languages:
-  
+<picture>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCourt&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</picture>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
@@ -30,32 +34,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;          
 </p>
 
-- Frameworks: 
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
-</p>
-
-- Developer Tools
-
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
-</p>
-
-- Cloud Based
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
 </p>
-
-<div id="stats">
-  <h2>Stats</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCCourt&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/></p>
-</div>
 
 ## 📫 How to reach me:
   
