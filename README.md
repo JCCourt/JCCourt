@@ -50,6 +50,5 @@
   <a href="https://www.linkedin.com/in/jack-courtenay/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 <div id="Extras">
-  <h2></h2>
   <p><img src="https://komarev.com/ghpvc/?username=jccourt&label=Profile%20views&color=0e75b6&style=flat" alt="jccourt"/></p>
 </div>
