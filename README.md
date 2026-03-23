@@ -1,6 +1,7 @@
 # Hello there, I'm @JCCourt
 
-- 🎓 Software Engineering Student at Auckland University of Technology
+- 🎓 **Software Engineering Graduate** | Auckland University of Technology
+- 🚀 **Founder & Lead Developer of [Toil](https://toil.codes)** — A wellness app available on [Google Play](https://play.google.com/store/apps/details?id=com.ecstatic.Toil).
 - 🌏 I’m interested in creating solutions to benefit peoples lives.
 - 🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.
 - 💼 I’m currently seeking new opportunities to apply my knowledge and expertise.
